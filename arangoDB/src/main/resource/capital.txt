@@ -1,196 +1,83 @@
+Hà Nội
+Bắc Kinh
+Bangkok
+Đài Bắc
+Luân Đôn
+Washington, D.C
+Paris
+Berlin
+Athens
 Kabul
+Vienna
+Canberra
+Dhaka
+Phnom Penh
+Ottawa
+Bangui
+Santiago
+Bogotá
+Brazzaville
+San José
+Zagreb
+La Habana
+Prague
+Sukhumi
 Tirana
 Algiers
+Pago Pago
 Andorra la Vella
 Luanda
-Saint John’s
+The Valley
+St. John's
 Buenos Aires
 Yerevan
-Canberra
-Vienna
-Baku
+Oranjestad
+Georgetown
 Nassau
-Manama
-Dhaka
 Bridgetown
 Minsk
-Brussels
 Belmopan
-Porto-Novo
+Hamilton
 Thimphu
-La Paz, Sucre
+Sucre
 Sarajevo
-Gaborone
-Brasilia
-Bandar Seri Begawan
 Sofia
-Ouagadougou
-Bujumbura
-Phnom Penh
-Yaounde
-Ottawa
 Praia
-Bangui
-N’Djamena
-Santiago
-Beijing
-Bogota
 Moroni
-Brazzaville
-Kinshasa
-San Jose
-Yamoussoukro
-Zagreb
-Havana
+Avarua
 Nicosia
-Prague
+Willemstad
 Copenhagen
-Djibouti
-Roseau
-Santo Domingo
-Dili
-Quito
-Cairo
-San Salvador
 Malabo
 Asmara
 Tallinn
-Addis Ababa
 Suva
-Helsinki
-Paris
-Libreville
+Cayenne
+Stanley
 Banjul
-Tbilisi
-Berlin
 Accra
-Athens
-Saint George’s
-Guatemala City
+Nuul
+Gibraltar
 Conakry
 Bissau
-Georgetown
-Port-au-Prince
-Tegucigalpa
-Budapest
-Reykjavik
 New Delhi
 Jakarta
+Hong Kong
+Budapest
 Tehran
-Baghdad
 Dublin
-Jerusalem*
 Rome
 Kingston
 Tokyo
-Amman
-Astana
-Nairobi
-Tarawa Atoll
-Pyongyang
 Seoul
-Pristina
-Kuwait City
-Bishkek
+Pyongyang
 Vientiane
 Riga
-Beirut
-Maseru
-Monrovia
-Tripoli
 Vaduz
-Vilnius
-Luxembourg
-Skopje
-Antananarivo
-Lilongwe
-Kuala Lumpur
-Male
-Bamako
-Valletta
-Majuro
-Nouakchott
-Port Louis
-Mexico City
-Palikir
-Chisinau
+Bishkek
 Monaco
-Ulaanbaatar
-Podgorica
-Rabat
 Maputo
-Naypyidaw
-Windhoek
-Yaren District
-Kathmandu
-Amsterdam
-Wellington
-Managua
-Niamey
-Abuja
-Oslo
-Muscat
-Islamabad
-Melekeok
-Panama City
-Port Moresby
-Asuncion
-Lima
-Manila
-Warsaw
-Lisbon
-Doha
-Bucharest
-Moscow
-Kigali
-Basseterre
-Castries
-Kingstown
-Apia
-San Marino
-Sao Tome
-Riyadh
-Dakar
-Belgrade
-Victoria
-Freetown
 Singapore
-Bratislava
-Ljubljana
-Honiara
-Mogadishu
-Pretoria, Cape Town, Bloemfontein
-Juba
 Madrid
-Colombo, Sri Jayewardenepura Kotte
-Khartoum
-Paramaribo
-Mbabane
-Stockholm
-Bern
-Damascus
-Taipei
-Dushanbe
-Dodoma
-Bangkok
-Lome
-Nuku’alofa
-Port-of-Spain
-Tunis
-Ankara
-Ashgabat
-Funafuti
-Kampala
-Kyiv
-Abu Dhabi
-London
-Washington D.C.
-Montevideo
-Tashkent
-Port-Vila
-Vatican City
-Caracas
-Hanoi
-Sanaa
-Lusaka
 Harare
+Viên Chăn
